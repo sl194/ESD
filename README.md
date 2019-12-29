@@ -1,16 +1,15 @@
 # MAKERSPACE
 ESD Student Initiatives and Resources 
 
-# TEST
 
-# TEST2
-
-## TEST3
+### TEST3
 # Current Initiatives
 
 ## Pillar Dialogue 
 
 We aim to have this as a termly event.
+
+![alt text](https://raw.githubusercontent.com/sl194/MAKER/master/abcd.jpg)
 
 **Aim: To provide an avenue for the sharing of important updates and address questions and concerns**
 
